@@ -37,7 +37,7 @@ Here are some screenshots of the application:
 2. **Open the project in Xcode**:
 
    ```bash
-   cd your-repository
+   cd app.swiftui.mobile.video-reels-v1
 
 3. **Open your-repository.xcodeproj**
 4. **Build and run the project in Xcode**
