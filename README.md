@@ -38,5 +38,6 @@ Here are some screenshots of the application:
 
    ```bash
    cd your-repository
+
    
    open your-repository.xcodeproj
