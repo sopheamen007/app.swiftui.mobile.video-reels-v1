@@ -5,11 +5,8 @@ Here are some screenshots of the application:
 ![Main Screen](https://github.com/user-attachments/assets/fde8a998-de17-43ca-bb19-886f6411a5db)
 *Main Screen*
 
-![Video Player](Screenshots/video_player.png)
+![Video Player]([Screenshots/video_player.png](https://github.com/user-attachments/assets/aefd4e93-0077-4d56-9003-7e655e21aca6))
 *Video Player*
-
-![User Interaction](Screenshots/user_interaction.png)
-*User Interaction*
 
 ## Features
 
