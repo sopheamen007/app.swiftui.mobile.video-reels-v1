@@ -5,9 +5,9 @@
 
 Here are some screenshots of the application:
 
-![Video Player](https://github.com/user-attachments/assets/aefd4e93-0077-4d56-9003-7e655e21aca6)
+![Video Player](https://github.com/user-attachments/assets/67b80c0b-4396-419f-bbb0-a4628731aff8)
 
-![Main Screen](https://github.com/user-attachments/assets/fde8a998-de17-43ca-bb19-886f6411a5db)
+![Main Screen](https://github.com/user-attachments/assets/fe5d9a8f-17c3-41aa-b9f2-33c972bbbd4f)
 *Main Screen*
 
 ## Features
