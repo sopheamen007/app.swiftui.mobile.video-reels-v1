@@ -39,5 +39,6 @@ Here are some screenshots of the application:
    ```bash
    cd your-repository
 
-   
-   open your-repository.xcodeproj
+3. **Open your-repository.xcodeproj**
+4. **Build and run the project in Xcode**
+
