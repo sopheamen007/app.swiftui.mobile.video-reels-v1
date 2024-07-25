@@ -53,7 +53,7 @@ This project utilizes the following package dependency:
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="20"> [Follow us on YouTube](https://www.youtube.com/channel/UCUwKif7EmAe5aS7IjsUMlCw)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20"> [Connect with us on LinkedIn](https://www.linkedin.com/in/sopheamen-van-949639119)
-- <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-square-color-icon.png" width="20" height="20"> [Follow us on TikTok](https://www.tiktok.com/@sopheamenvan)
+- <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-square-color-icon.png" width="25" height="25"> [Follow us on TikTok](https://www.tiktok.com/@sopheamenvan)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg" width="20" height="20"> [Support us on Patreon](https://www.patreon.com/sopheamenvan)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20"> [Like our Facebook page](https://www.facebook.com/profile.php?id=100057202699919)
 
