@@ -23,9 +23,9 @@ Here are some screenshots of the application:
 
 ### Prerequisites
 
-- Xcode 12.0 or later
-- Swift 5.0 or later
-- iOS 17.0 or later
+- Xcode 15.2 or later
+- Swift 5.9.2 or later
+- iOS 17.2 or later
 
 ### Steps
 
