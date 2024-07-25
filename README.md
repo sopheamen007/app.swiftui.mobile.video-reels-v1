@@ -1,4 +1,4 @@
-## # Build a SwiftUI Video Player like Reels, TikTok, YouTube Shorts on iOS 17.0
+## Build a SwiftUI Video Player like Reels, TikTok, YouTube Shorts on iOS 17.0
 
 Here are some screenshots of the application:
 
