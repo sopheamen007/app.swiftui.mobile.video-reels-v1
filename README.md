@@ -57,5 +57,5 @@ This project utilizes the following package dependency:
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg" width="20" height="20"> [Support me on Patreon](https://www.patreon.com/sopheamenvan)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20"> [Like me Facebook page](https://www.facebook.com/profile.php?id=100057202699919)
 
-We share updates, tutorials, and behind-the-scenes content. Follow us to stay in the loop!
+I regularly post updates, tutorials, and exclusive behind-the-scenes looks at my projects. To keep up with the latest, make sure to follow me on my social channels!
 
