@@ -51,18 +51,11 @@ This project utilizes the following package dependency:
 ## Connect with me on Social Media
 **Stay connected and follow our updates on various platforms**:
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/YouTube_Logo.svg" width="20" height="20"> [Follow us on YouTube](https://youtube.com/yourChannel)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/TikTok_logo.svg" width="20" height="20"> [Follow us on TikTok](https://tiktok.com/@yourUsername)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg" width="20" height="20"> [Support us on Patreon](https://patreon.com/yourUsername)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20"> [Like our Facebook page](https://facebook.com/yourPage)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20"> [Connect with us on LinkedIn](https://www.linkedin.com/in/yourProfile)
-
-
-- ![YouTube](https://upload.wikimedia.org/wikipedia/commons/9/98/YouTube_Logo.svg) [Follow us on YouTube](https://www.youtube.com/channel/UCUwKif7EmAe5aS7IjsUMlCw)
-- ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png) [Connect with us on LinkedIn](https://www.linkedin.com/in/sopheamen-van-949639119)
-- ![TikTok](https://upload.wikimedia.org/wikipedia/commons/4/46/TikTok_logo.svg) [Follow us on TikTok](https://www.tiktok.com/@sopheamenvan)
-- ![Patreon](https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg) [Support us on Patreon](https://www.patreon.com/sopheamenvan)
-- ![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg) [Like our Facebook page](https://www.facebook.com/profile.php?id=100057202699919)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/YouTube_Logo.svg" width="20" height="20"> [Follow us on YouTube](https://www.youtube.com/channel/UCUwKif7EmAe5aS7IjsUMlCw)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/TikTok_logo.svg" width="20" height="20"> [Follow us on TikTok](https://www.tiktok.com/@sopheamenvan)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg" width="20" height="20"> [Support us on Patreon](https://www.patreon.com/sopheamenvan)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20"> [Like our Facebook page](https://www.facebook.com/profile.php?id=100057202699919)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20"> [Connect with us on LinkedIn](https://www.linkedin.com/in/sopheamen-van-949639119)
   
 We share updates, tutorials, and behind-the-scenes content. Follow us to stay in the loop!
 
