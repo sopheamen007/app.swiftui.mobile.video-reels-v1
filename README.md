@@ -35,6 +35,8 @@ Here are some screenshots of the application:
    git clone https://github.com/your-username/your-repository.git
    
 2. **Open the project in Xcode**:
-   
+
+   ```bash
    cd your-repository
+   
    open your-repository.xcodeproj
