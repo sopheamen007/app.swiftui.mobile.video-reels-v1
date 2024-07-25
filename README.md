@@ -32,7 +32,7 @@ Here are some screenshots of the application:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/sopheamen007/app.swiftui.mobile.video-reels-v1.git
    
 2. **Open the project in Xcode**:
 
