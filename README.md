@@ -48,3 +48,7 @@ This project utilizes the following package dependency:
 3. **Open your-repository.xcodeproj**
 4. **Build and run the project in Xcode**
 
+## Connect with me on Social Media
+**Stay connected and follow our updates on various platforms**:
+
+
