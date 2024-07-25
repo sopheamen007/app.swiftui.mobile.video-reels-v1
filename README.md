@@ -6,7 +6,6 @@ Here are some screenshots of the application:
 *Main Screen*
 
 ![Video Player](https://github.com/user-attachments/assets/aefd4e93-0077-4d56-9003-7e655e21aca6)
-*Video Player*
 
 ## Features
 
