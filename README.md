@@ -19,6 +19,13 @@ Here are some screenshots of the application:
 - **Animated Transitions**: Smooth transitions between videos.
 - **Dark Mode Support**: Full support for iOS dark mode.
 
+## Package Dependencies
+
+This project utilizes the following package dependency:
+
+- **Kingfisher** (Version 7.12.0): A powerful, pure-Swift library for downloading and caching images from the web. It provides a straightforward way to download and manage images in your app, enhancing performance and user experience.
+
+
 ## Installation
 
 ### Prerequisites
