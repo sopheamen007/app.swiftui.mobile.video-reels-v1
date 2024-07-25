@@ -2,10 +2,10 @@
 
 Here are some screenshots of the application:
 
+![Video Player](https://github.com/user-attachments/assets/aefd4e93-0077-4d56-9003-7e655e21aca6)
+
 ![Main Screen](https://github.com/user-attachments/assets/fde8a998-de17-43ca-bb19-886f6411a5db)
 *Main Screen*
-
-![Video Player](https://github.com/user-attachments/assets/aefd4e93-0077-4d56-9003-7e655e21aca6)
 
 ## Features
 
