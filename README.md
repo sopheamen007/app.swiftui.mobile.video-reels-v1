@@ -51,11 +51,10 @@ This project utilizes the following package dependency:
 ## Connect with me on Social Media
 **Stay connected and follow our updates on various platforms**:
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/YouTube_Logo.svg" width="20" height="20"> [Follow us on YouTube](https://www.youtube.com/channel/UCUwKif7EmAe5aS7IjsUMlCw)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/TikTok_logo.svg" width="20" height="20"> [Follow us on TikTok](https://www.tiktok.com/@sopheamenvan)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg" width="20" height="20"> [Support us on Patreon](https://www.patreon.com/sopheamenvan)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20"> [Like our Facebook page](https://www.facebook.com/profile.php?id=100057202699919)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="20"> [Follow us on YouTube](https://www.youtube.com/channel/UCUwKif7EmAe5aS7IjsUMlCw)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20"> [Connect with us on LinkedIn](https://www.linkedin.com/in/sopheamen-van-949639119)
-  
+- <img src="[https://upload.wikimedia.org/wikipedia/commons/4/46/TikTok_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TikTok_logo.svg/1280px-TikTok_logo.svg.png)" width="20" height="20"> [Follow us on TikTok](https://www.tiktok.com/@sopheamenvan)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg" width="20" height="20"> [Support us on Patreon](https://www.patreon.com/sopheamenvan)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20"> [Like our Facebook page](https://www.facebook.com/profile.php?id=100057202699919) 
 We share updates, tutorials, and behind-the-scenes content. Follow us to stay in the loop!
 
