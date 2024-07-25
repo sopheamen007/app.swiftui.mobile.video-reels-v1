@@ -51,4 +51,11 @@ This project utilizes the following package dependency:
 ## Connect with me on Social Media
 **Stay connected and follow our updates on various platforms**:
 
+- YouTube: [Follow us on YouTube](https://www.youtube.com/channel/UCUwKif7EmAe5aS7IjsUMlCw)
+- LinkedIn: [Connect with us on LinkedIn](https://www.linkedin.com/in/sopheamen-van-949639119)
+- TikTok: [Follow us on TikTok](https://www.tiktok.com/@sopheamenvan)
+- Patreon: [Support us on Patreon](https://www.patreon.com/sopheamenvan)
+- Facebook: [Like our Facebook page](https://www.facebook.com/profile.php?id=100057202699919)
+  
+We share updates, tutorials, and behind-the-scenes content. Follow us to stay in the loop!
 
