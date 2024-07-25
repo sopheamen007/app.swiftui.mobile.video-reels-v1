@@ -1,4 +1,7 @@
 ## Build a SwiftUI Video Player like Reels, TikTok, YouTube Shorts on iOS 17.0
+![Swift Version](https://img.shields.io/badge/Swift-5.0-orange.svg)
+![iOS Version](https://img.shields.io/badge/iOS-17.0%2B-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 Here are some screenshots of the application:
 
